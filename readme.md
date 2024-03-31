@@ -26,7 +26,7 @@ To get a local copy of the project up and running on your machine, follow these 
 2)<b>Install dependencies:</b> Navigate to the project directory and install the necessary dependencies using npm:
   <pre>cd folder_name
        npm install
-  <pre>
+  </pre>
   
 3)<b>Start the server:</b> Start the Node.js server using the following command:
    <pre>npm start</pre>
