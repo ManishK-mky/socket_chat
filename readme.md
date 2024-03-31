@@ -30,7 +30,7 @@ To get a local copy of the project up and running on your machine, follow these 
   
 3)<b>Start the server:</b> Start the Node.js server using the following command:
    <pre>npm start</pre>
-   This will start the server at http://localhost:3000.
+   This will start the server at http://localhost:3300.
 
 4)<b>Open the application:</b> Open your web browser and navigate to http://localhost:3300 to access the Realtime Chat App.
 
