@@ -13,8 +13,12 @@ app.use(express.static(path.join(__dirname , 'public')));
 
 // Define routes
 app.get('/', function(req, res) {
-    res.send("<h1>Hello world</h1>");
+    res.send(`
+        <h1>Hello world</h1>
+        <button onclick="window.location.href='/chat'">Go to Chat</button>
+    `);
 });
+
 
 //------------------------Itna karne jab bhi koi user '/chat route pe jayega toh woh as a new user jayega'-------------------------- 
 
